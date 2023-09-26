@@ -1,2 +1,20 @@
-# Airborne-Field-Boundary-Recognition
-Aerial Field Boundary Recognition: Using drone images, a blend of HED &amp; UNET is employed for boundary detection. Implemented with PyTorch, GDAL, Optuna, and MLflow
+# Aerial Field Boundary Recognition Using HED
+
+In this project, we leverage drone-captured images to detect field boundaries. Due to proprietary restrictions, the dataset is kept private.
+
+### Training Model
+
+- **Utilizing a blend of Holistically-Nested Edge Detection (HED) & UNET**
+
+### Utilized Libraries and Frameworks
+
+- Geospatial Data Management: **GDAL**
+- Deep Learning Model Development: **PyTorch**
+- Image Augmentations: **Albumentations**
+- Tuning of Hyperparameters: **Optuna**
+- Monitoring Model's Metrics: **MLflow**
+- Image Processing and Display: **OpenCV** & **Matplotlib**
+
+## Results
+Despite the fact that our ground truth dataset was not flawlessly digitized, our model produced commendable predictions. Here are some representative results:
+
