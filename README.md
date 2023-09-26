@@ -18,3 +18,6 @@ In this project, I leverage drone-captured images to detect field boundaries. Du
 ## Results
 Despite the fact that our ground truth dataset was not flawlessly digitized, the model produced commendable predictions. Here are some representative results:
 
+![alt text](Predictions/pred1.PNG) 
+![alt text](Predictions/pred2.PNG) 
+![alt text](Predictions/pred3.PNG)
