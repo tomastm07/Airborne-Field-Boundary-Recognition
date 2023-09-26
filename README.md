@@ -1,6 +1,6 @@
 # Aerial Field Boundary Recognition Using HED
 
-In this project, we leverage drone-captured images to detect field boundaries. Due to proprietary restrictions, the dataset is kept private.
+In this project, I leverage drone-captured images to detect field boundaries. Due to proprietary restrictions, the dataset is kept private.
 
 ### Training Model
 
@@ -16,5 +16,5 @@ In this project, we leverage drone-captured images to detect field boundaries. D
 - Image Processing and Display: **OpenCV** & **Matplotlib**
 
 ## Results
-Despite the fact that our ground truth dataset was not flawlessly digitized, our model produced commendable predictions. Here are some representative results:
+Despite the fact that our ground truth dataset was not flawlessly digitized, the model produced commendable predictions. Here are some representative results:
 
